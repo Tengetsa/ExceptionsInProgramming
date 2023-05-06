@@ -12,7 +12,7 @@ public class Task2 {
     public static void main(String[] args) {
 
         //int[] arr1 = {4, 2, 7, 3, 1};
-        //int[] arr2 = {5, 7, 2, 3, 0};
+        //int[] arr2 = {5, 7, 2, 3, 3};
 
         //int[] arr1 = {4, 2, 7, 3, 1};
         //int[] arr2 = {5, 7, 2, 3};
