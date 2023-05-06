@@ -15,10 +15,12 @@ public class Task2 {
         //int[] arr2 = {5, 7, 2, 3, 0};
 
         //int[] arr1 = {4, 2, 7, 3, 1};
-        //int[] arr2 = {5, 7, 2, 3, 0};
+        //int[] arr2 = {5, 7, 2, 3};
 
         int[] arr1 = {4, 2, 7, 3, 1};
         int[] arr2 = {5, 7, 2, 3, 0};
+
+
 
 
         createArray(arr1, arr2);
